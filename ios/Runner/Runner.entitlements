@@ -6,8 +6,8 @@
 	<string>development</string>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:www.baits.jp</string>
-		<string>applinks:baits.jp</string>
+		<string>applinks:www.uid-input-test.herokuapp.com</string>
+		<string>applinks:uid-input-test.herokuapp.com</string>
 	</array>
 </dict>
 </plist>
